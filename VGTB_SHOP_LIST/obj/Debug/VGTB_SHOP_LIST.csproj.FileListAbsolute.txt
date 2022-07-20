@@ -1,0 +1,406 @@
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.AssemblyReference.cache
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.CoreCompileInputs.cache
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.dll.config
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.pdb
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.exe
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.exe.config
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.rsp
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.exe
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.exe.config
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.rsp
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.AppContext.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Collections.Immutable.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Console.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Globalization.Calendars.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.Compression.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.FileSystem.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Net.Http.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Net.Sockets.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Reflection.Metadata.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.ValueTuple.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XPath.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.exe
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.exe.config
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.rsp
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\VBCSCompiler.exe
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\VBCSCompiler.exe.config
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Antlr3.Runtime.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\AspNet.ScriptManager.jQuery.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.Web.Infrastructure.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Newtonsoft.Json.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\System.Web.Optimization.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\WebGrease.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\System.Web.Optimization.xml
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Newtonsoft.Json.xml
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Antlr3.Runtime.pdb
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.CopyComplete
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.pdb
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.dll.config
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.pdb
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.exe
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.exe.config
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.rsp
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.exe
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.exe.config
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.rsp
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.AppContext.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Collections.Immutable.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Console.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Globalization.Calendars.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.Compression.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.FileSystem.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Net.Http.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Net.Sockets.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Reflection.Metadata.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.ValueTuple.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XPath.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.exe
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.exe.config
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.rsp
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\VBCSCompiler.exe
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\VBCSCompiler.exe.config
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Antlr3.Runtime.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\AspNet.ScriptManager.jQuery.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.Web.Infrastructure.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Newtonsoft.Json.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\System.Web.Optimization.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\WebGrease.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\System.Web.Optimization.xml
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Newtonsoft.Json.xml
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Antlr3.Runtime.pdb
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.AssemblyReference.cache
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.CoreCompileInputs.cache
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.CopyComplete
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.dll
+D:\Fight\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.pdb
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.dll.config
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.pdb
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.exe
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.exe.config
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.rsp
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.exe
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.exe.config
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.rsp
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.AppContext.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Console.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.Compression.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Net.Http.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.ValueTuple.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.exe
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.exe.config
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.rsp
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\VBCSCompiler.exe
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Antlr3.Runtime.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Newtonsoft.Json.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\System.Web.Optimization.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\WebGrease.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\System.Web.Optimization.xml
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Newtonsoft.Json.xml
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Antlr3.Runtime.pdb
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.AssemblyReference.cache
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.CoreCompileInputs.cache
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.CopyComplete
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.dll
+C:\Users\IT-Dev\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.pdb
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.dll.config
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.pdb
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.exe
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.exe.config
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.rsp
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.exe
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.exe.config
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.rsp
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.AppContext.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Collections.Immutable.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Console.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Globalization.Calendars.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.Compression.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.FileSystem.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Net.Http.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Net.Sockets.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Reflection.Metadata.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.ValueTuple.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XPath.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.exe
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.exe.config
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.rsp
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\VBCSCompiler.exe
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\VBCSCompiler.exe.config
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Antlr3.Runtime.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\AspNet.ScriptManager.jQuery.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.Web.Infrastructure.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Newtonsoft.Json.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\System.Web.Optimization.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\WebGrease.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\System.Web.Optimization.xml
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Newtonsoft.Json.xml
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Antlr3.Runtime.pdb
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.AssemblyReference.cache
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.CoreCompileInputs.cache
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.CopyComplete
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.dll
+D:\Move to New NB\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.pdb
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.COUTILITIESLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalClientDocLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CRYSTALDIALOGSLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalOLAPDataLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsControllersLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsObjectFactoryLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.ResolveComReference.cache
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\CrystalDecisions.ReportSource.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\CrystalDecisions.Shared.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\CrystalDecisions.Web.dll
+D:\Share\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\stdole.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.dll.config
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\VGTB_SHOP_LIST.pdb
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.exe
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.exe.config
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csc.rsp
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.exe
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.exe.config
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\csi.rsp
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.AppContext.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Console.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.Compression.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Net.Http.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.ValueTuple.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.exe
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.exe.config
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\vbc.rsp
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\VBCSCompiler.exe
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Antlr3.Runtime.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\CrystalDecisions.ReportSource.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\CrystalDecisions.Shared.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\CrystalDecisions.Web.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Newtonsoft.Json.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\System.Web.Optimization.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\WebGrease.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\stdole.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\System.Web.Optimization.xml
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Newtonsoft.Json.xml
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Antlr3.Runtime.pdb
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.AssemblyReference.cache
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.COUTILITIESLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalClientDocLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CRYSTALDIALOGSLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalOLAPDataLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsControllersLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsObjectFactoryLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.ResolveComReference.cache
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.CoreCompileInputs.cache
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.csproj.CopyComplete
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.dll
+C:\Users\TAFITDEV020\Desktop\รายการซื้อผัก\VGTB_SHOP_LIST\VGTB_SHOP_LIST\obj\Debug\VGTB_SHOP_LIST.pdb
